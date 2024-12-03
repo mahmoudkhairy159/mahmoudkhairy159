@@ -3,6 +3,9 @@
 🚀 **Senior Backend Developer | Laravel Specialist | Software Engineer**  
 📍 **El-Haram, Giza, Egypt**  
 📧 **[mahmoudkhairy159@gmail.com](mailto:mahmoudkhairy159@gmail.com)** | 📱 **01117507344**  
+
+---
+
 Welcome to my GitHub profile! I'm a passionate backend developer with extensive experience in building scalable, high-performance systems using **Laravel** and a solid foundation in frontend development. I strive to deliver clean, maintainable code and contribute to innovative projects that solve real-world problems.
 
 ---
