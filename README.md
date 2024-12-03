@@ -62,7 +62,7 @@ Welcome to my GitHub profile! I'm a passionate backend developer with extensive 
 - Designed and developed key features such as user authentication, authorization, and rental management using Laravel and Angular.
 - Ensured seamless integration of frontend and backend functionalities, delivering a smooth user experience.
 
-### [ Oracle ERP System 📊]
+### Oracle ERP System 📊
 - Automated and optimized rental operations management for AbuDiyab, significantly improving operational efficiency.
 - Utilized Laravel for the backend and integrated with Oracle to manage complex data workflows.
 
