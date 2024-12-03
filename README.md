@@ -17,14 +17,6 @@ Welcome to my GitHub profile! I'm a passionate backend developer with extensive 
 
 ---
 
-## 🛠️ **Technologies & Tools**
-- Experienced in **backend development** using **PHP, MySQL, and Laravel**.  
-- Skilled in **frontend technologies** like **HTML, CSS, JavaScript, Bootstrap, and Angular**.  
-- Proficient in **OOP**, **SOLID Principles**, and **Clean Code** practices.  
-- Enthusiastic about solving complex problems using **data structures and algorithms**.
-
----
-
 ## 🛠️ **Skills**
 ### **Backend Development**
 - **Languages**: PHP, SQL  
