@@ -42,6 +42,10 @@ Welcome to my GitHub profile! I’m a passionate and results-driven **Senior Bac
 ---
 
 ## 🌟 **Featured Projects**
+### [🌍 GeoFika Platform Carbon Footprint API](https://www.geofika.com)
+🌱 **GeoFika empowers communities by providing real-time data on incidents and environmental challenges. Focused on sustainability, accessibility, and innovation, the platform delivers actionable insights to foster informed decisions and global collaboration.  
+🔧 **Developed backend features using Laravel and collaborated on system design and deployment. Technologies Used React, Next.js, and TypeScript for the frontend.
+
 ### [🌍 Website Carbon Footprint API](https://www.wardlin.com/digital-recycling)
 🌱 **Laravel-based API** to measure website carbon emissions.  
 🔗 Integrated with **Google Lighthouse** and **Green Web Foundation** APIs to provide accurate carbon footprint assessments.  
