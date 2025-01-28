@@ -62,7 +62,7 @@ Welcome to my GitHub profile! I’m a passionate and results-driven **Senior Bac
 🚀 Partnered with designers and stakeholders to deliver a visually stunning and user-friendly portfolio website representing Mushor's brand and vision.  
 🔧 **Technologies Used**: Vue.js for the front end and Laravel for the back end.
 
-### [🌟 Alshawi Charity Website]([https://alshawicharity.org.sa/))
+### [🌟 Alshawi Charity Website]([https://alshawicharity.org.sa/)
 💻 Built and maintained the backend features using Laravel, ensuring scalability and high performance.  
 🔧 Developed a platform for connecting individuals, businesses, and communities to support charitable initiatives.
 🔧 **Technologies Used**: Laravel, MySQL, and Vue.js
