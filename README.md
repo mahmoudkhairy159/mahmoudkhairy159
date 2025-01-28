@@ -44,7 +44,7 @@ Welcome to my GitHub profile! I’m a passionate and results-driven **Senior Bac
 ## 🌟 **Featured Projects**
 ### [🌍 GeoFika Platform](https://www.geofika.com)
 🌱 GeoFika empowers communities by providing real-time data on incidents and environmental challenges. Focused on sustainability, accessibility, and innovation, the platform delivers actionable insights to foster informed decisions and global collaboration.  
-🔧 **Developed** backend features using Laravel and collaborated on system design and deployment. Technologies Used React, Next.js, and TypeScript for the frontend.
+🔧 **Developed** backend features using Laravel and collaborated on system design and deployment. Technologies Used React, Next.js, and TypeScript for the front end.
 
 ### [🌍 Website Carbon Footprint API](https://www.wardlin.com/digital-recycling)
 🌱 **Laravel-based API** to measure website carbon emissions.  
@@ -57,12 +57,11 @@ Welcome to my GitHub profile! I’m a passionate and results-driven **Senior Bac
 🔧 **Technologies Used**: Laravel, MySQL
 
 ### [✨ Mushor Technology Website](https://mushor.com)
-🎨Mushor Tech is a top value-added distributor offering innovative solutions in electrical testing, power tools, safety equipment, networking, and telecom.
-  They prioritize quality, service excellence, and seamless technology integration.
+🎨Mushor Tech is a top value-added distributor offering innovative solutions in electrical testing, power tools, safety equipment, networking, and telecom. They prioritize quality, service excellence, and seamless technology integration.
 🚀 Partnered with designers and stakeholders to deliver a visually stunning and user-friendly portfolio website representing Mushor's brand and vision.  
 🔧 **Technologies Used**: Vue.js for the front end and Laravel for the back end.
 
-### [🌟 Alshawi Charity Website]([https://alshawicharity.org.sa/)
+### [🌟 Alshawi Charity Website](https://alshawicharity.org.sa/)
 💻 Built and maintained the backend features using Laravel, ensuring scalability and high performance.  
 🔧 Developed a platform for connecting individuals, businesses, and communities to support charitable initiatives.
 🔧 **Technologies Used**: Laravel, MySQL, and Vue.js
