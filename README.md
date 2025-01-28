@@ -56,6 +56,17 @@ Welcome to my GitHub profile! I’m a passionate and results-driven **Senior Bac
 🔧 Collaborated on system design and deployment to create a professional company portfolio website showcasing WardLin's expertise.  
 🔧 **Technologies Used**: Laravel, MySQL
 
+### [✨ Mushor Technology Website](https://mushor.com)
+🎨Mushor Tech is a top value-added distributor offering innovative solutions in electrical testing, power tools, safety equipment, networking, and telecom.
+  They prioritize quality, service excellence, and seamless technology integration.
+🚀 Partnered with designers and stakeholders to deliver a visually stunning and user-friendly portfolio website representing Mushor's brand and vision.  
+🔧 **Technologies Used**: Vue.js for the front end and Laravel for the back end.
+
+### [🌟 Alshawi Charity Website]([https://alshawicharity.org.sa/))
+💻 Built and maintained the backend features using Laravel, ensuring scalability and high performance.  
+🔧 Developed a platform for connecting individuals, businesses, and communities to support charitable initiatives.
+🔧 **Technologies Used**: Laravel, MySQL, and Vue.js
+
 ### [✨ Naya Website](https://nayauae.com)
 🎨 Developed the backend features using Laravel, focusing on efficiency and reliability.  
 🚀 Partnered with designers and stakeholders to deliver a visually stunning and user-friendly portfolio website representing Naya's brand and vision.  
