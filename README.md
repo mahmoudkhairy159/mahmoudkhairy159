@@ -33,10 +33,10 @@ I am a senior backend developer with 5+ years of experience designing, building,
 
 | Project | Summary | Stack |
 | --- | --- | --- |
-| Real Deal Egypt | Car marketplace and bidding platform with vendor inventory, ad management, subscriptions, payments, and real-time bidding workflows. | Laravel 12, PHP 8.2, Octane, MySQL, Redis, JWT, Stripe, Firebase FCM, AWS S3, PHPUnit |
+| [Real Deal Egypt](https://apps.apple.com/eg/app/real-deal-egypt/id6754966163) | Car marketplace and bidding platform with vendor inventory, ad management, subscriptions, payments, and real-time bidding workflows. | Laravel 12, PHP 8.2, Octane, MySQL, Redis, JWT, Stripe, Firebase FCM, AWS S3, PHPUnit |
 | Al-Ouf | Multi-tenant fleet and transportation operations platform built as a modular monolith. | Laravel 12, PHP 8.4, Octane, Swoole, MySQL, Redis, JWT, Docker, Kubernetes, GitLab CI/CD |
-| Edge | Space and facility reservation API for Edge Innovation Center and Raya Smart Buildings. | Laravel 12, PHP 8.3, MySQL, Redis, Stripe, Firebase, AWS S3, PHPUnit |
-| Envirdian | EdTech learning and licensing platform for schools, teachers, and students with gamified learning and tiered licensing. | Laravel 12, PHP 8.2, MySQL, Redis, JWT, Skolon SSO, GitLab CI/CD |
+| [Edge](https://apps.apple.com/eg/app/edge-innovation-center/id6759037991) | Space and facility reservation API for Edge Innovation Center and Raya Smart Buildings. | Laravel 12, PHP 8.3, MySQL, Redis, Stripe, Firebase, AWS S3, PHPUnit |
+| [Envirdian](https://www.envirdian.com) | EdTech learning and licensing platform for schools, teachers, and students with gamified learning and tiered licensing. | Laravel 12, PHP 8.2, MySQL, Redis, JWT, Skolon SSO, GitLab CI/CD |
 | [GeoFika Platform](https://www.geofika.com) | Multilingual geopolitical research and knowledge platform powering articles, research, events, thoughts, and initiatives. | Laravel 12, PHP 8.2, MySQL, Redis, JWT, AWS S3, PHPUnit |
 | [Wardlin Website](https://www.wardlin.com) | Professional portfolio and content platform. | Laravel, React, Next.js, TypeScript |
 | [Naya Website](https://nayauae.com) | Professional portfolio website with optimized backend features. | Laravel, React, Next.js, TypeScript |
