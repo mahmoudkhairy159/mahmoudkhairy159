@@ -1,108 +1,77 @@
-# Hi, I'm Mahmoud Khairy! 👋
+# Mahmoud Khairy
 
-🚀 **Senior Backend Developer | Laravel Specialist | Software Engineer**  
-📍 **El-Haram, Giza, Egypt**  
-📧 **[mahmoudkhairy159@gmail.com](mailto:mahmoudkhairy159@gmail.com)** | 📱 **01117507344**
+**Senior Backend Developer | Laravel/PHP Engineer | API & Platform Architecture**
 
----
+[![Email](https://img.shields.io/badge/Email-mahmoudkhairy159%40gmail.com-0A66C2?style=flat-square&logo=gmail&logoColor=white)](mailto:mahmoudkhairy159@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mahmoud%20Khairy-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-khairy-753b841b4/)
+[![GitHub](https://img.shields.io/badge/GitHub-mahmoudkhairy159-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mahmoudkhairy159)
 
-## 🌟 Welcome to My GitHub Profile!
-I’m a passionate and results-driven **Senior Backend Developer** with a strong focus on **Laravel**, building scalable and high-performance systems. My expertise spans backend and frontend technologies, enabling me to create seamless, end-to-end solutions. I strive to deliver clean, maintainable code and contribute to innovative projects that solve real-world problems.
+I am a senior backend developer with 5+ years of experience designing, building, and optimizing Laravel/PHP systems for SaaS products, marketplaces, fleet operations, e-commerce, EdTech, and multilingual content platforms. I focus on clean architecture, RESTful APIs, high-performance MySQL data layers, automated testing, and reliable delivery practices.
 
----
+## What I Do
 
-## 🎓 **Education**
-- **Bachelor of Computer Science** (2016–2020)  
-  **Faculty of Computers and Artificial Intelligence, Cairo University**  
-  - **Graduation Project (A+)**: *"Fe Sektak"* Carpooling Application  
-    *(Technologies: Flutter, Laravel)*
+- Architect modular Laravel backends, including Laravel 12 modular monoliths with clear domain boundaries.
+- Build secure REST APIs with JWT authentication, RBAC/ACL, multi-guard auth, payments, notifications, and cloud storage integrations.
+- Optimize MySQL queries, API endpoints, and backend workflows, including reducing API response times by up to 30%.
+- Improve release quality through PHPUnit, code reviews, Git workflows, CI/CD, and Agile delivery.
+- Mentor developers through practical code reviews focused on maintainability, SOLID principles, and clean code.
 
----
+## Tech Stack
 
-## 🛠️ **Skills**
-### **Backend Development**
-| Language | Framework | Database | Tools              |
-|----------|-----------|----------|--------------------|
-| PHP      | Laravel   | MySQL    | Redis, RabbitMQ, Docker |
+| Area | Tools & Technologies |
+| --- | --- |
+| Backend | PHP, Laravel, RESTful APIs, Microservices, Modular Monoliths |
+| Databases & Cache | MySQL, SQL, Redis |
+| Architecture | OOP, SOLID, Design Patterns, RBAC, Multi-Tenant Systems |
+| Testing & Quality | PHPUnit, Code Reviews, Clean Code, Performance Optimization |
+| DevOps & Cloud | Docker, Kubernetes, GitLab CI/CD, AWS S3 |
+| Integrations | Stripe, Firebase FCM, JWT, Oracle DB, Skolon SSO |
+| Frontend | JavaScript, HTML, CSS, Bootstrap, Angular, Vue.js, React, Next.js, TypeScript |
+| Tools | Git, Agile/Scrum, Data Structures & Algorithms |
 
-### **Frontend Development**
-| Technologies |
-|--------------|
-| HTML, CSS, JavaScript, Bootstrap, Angular |
+## Featured Work
 
-### **Principles**
-- Object-Oriented Programming (OOP)  
-- SOLID Principles  
-- Clean Code  
+| Project | Summary | Stack |
+| --- | --- | --- |
+| Real Deal Egypt | Car marketplace and bidding platform with vendor inventory, ad management, subscriptions, payments, and real-time bidding workflows. | Laravel 12, PHP 8.2, Octane, MySQL, Redis, JWT, Stripe, Firebase FCM, AWS S3, PHPUnit |
+| Al-Ouf | Multi-tenant fleet and transportation operations platform built as a modular monolith. | Laravel 12, PHP 8.4, Octane, Swoole, MySQL, Redis, JWT, Docker, Kubernetes, GitLab CI/CD |
+| Edge | Space and facility reservation API for Edge Innovation Center and Raya Smart Buildings. | Laravel 12, PHP 8.3, MySQL, Redis, Stripe, Firebase, AWS S3, PHPUnit |
+| Envirdian | EdTech learning and licensing platform for schools, teachers, and students with gamified learning and tiered licensing. | Laravel 12, PHP 8.2, MySQL, Redis, JWT, Skolon SSO, GitLab CI/CD |
+| [GeoFika Platform](https://www.geofika.com) | Multilingual geopolitical research and knowledge platform powering articles, research, events, thoughts, and initiatives. | Laravel 12, PHP 8.2, MySQL, Redis, JWT, AWS S3, PHPUnit |
+| [Wardlin Website](https://www.wardlin.com) | Professional portfolio and content platform. | Laravel, React, Next.js, TypeScript |
+| [Naya Website](https://nayauae.com) | Professional portfolio website with optimized backend features. | Laravel, React, Next.js, TypeScript |
+| [Mushor Technology Website](https://mushor.com) | Corporate platform for a distributor in electrical testing, power tools, and networking solutions. | Laravel, Vue.js |
+| [Alshawi Charity Website](https://alshawicharity.org.sa/) | Charitable giving platform connecting individuals and businesses for social impact. | Laravel, Vue.js, MySQL |
+| [AbuDiyab Car Renting Website](https://www.rent.abudiyab.com.sa/) | Car rental system with bookings, payments, authentication, and authorization. | Laravel, Angular, MySQL |
+| Oracle ERP System | Rental workflow automation with inventory and invoice modules. | Laravel, Oracle DB |
 
-### **Other**
-- Version Control: Git  
-- Agile Methodologies  
-- Problem-solving and Debugging  
-- Automated Testing (PHPUnit)
+## Open Source & Practice Projects
 
----
+- [E-Commerce Platform API](https://github.com/mahmoudkhairy159/EcommerceAPI-Laravel) - Secure Laravel API for e-commerce workflows.
+- [Laravel To-Do Application](https://github.com/mahmoudkhairy159/Laravel_TO_Do_Application) - Task management application with reminders and search.
 
-## 🌟 **Featured Projects**
-### [🌍 GeoFika Platform](https://www.geofika.com)
-Empowers communities by providing real-time data on incidents and environmental challenges.  
-🔧 **Role**: Backend Development with Laravel.  
-🔗 **Technologies**: Laravel, React, Next.js, TypeScript.
+## Experience Snapshot
 
-### [🌍 Website Carbon Footprint API](https://www.wardlin.com/digital-recycling)
-Measures website carbon emissions.  
-🔗 Integrated with **Google Lighthouse** and **Green Web Foundation** APIs.  
-🔧 **Technologies**: Laravel, Google Lighthouse API.
+- **Senior Backend Developer, MENT'ECH** - August 2025 to present
+- **Senior Backend Developer, Wardlin** - November 2023 to present
+- **Backend Developer, Tap** - January 2025 to August 2025
+- **Backend Developer, Mushor Technology** - March 2023 to January 2025
+- **Software Engineer, AbuDiyab IT Services** - January 2023 to November 2023
 
-### [🌟 WardLin Website](https://www.wardlin.com)
-Professional portfolio website for WardLin.  
-🔧 **Technologies**: Laravel, MySQL.
+## Education & Certifications
 
-### [✨ Mushor Technology Website](https://mushor.com)
-Top distributor of innovative solutions.  
-🔧 **Technologies**: Laravel (Backend), Vue.js (Frontend).
+- Bachelor of Computer Science, Faculty of Computers and Artificial Intelligence, Cairo University
+- Graduation project: **Fe Sektak**, carpooling application built with Flutter and Laravel, graded A+
+- Certifications: Laravel Advanced Development, AWS Cloud Practitioner in progress
 
-### [🌟 Alshawi Charity Website](https://alshawicharity.org.sa/)
-Platform connecting individuals and businesses for charitable initiatives.  
-🔧 **Technologies**: Laravel, MySQL, Vue.js.
+## GitHub Activity
 
-### [✨ Naya Website](https://nayauae.com)
-Showcases Naya's brand with a user-friendly interface.  
-🔧 **Technologies**: Laravel.
+![Mahmoud's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahmoudkhairy159&show_icons=true&theme=transparent&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudkhairy159&layout=compact&theme=transparent&hide_border=true)
 
-### [🚗 AbuDiyab Car Renting Website](https://www.rent.abudiyab.com.sa/)
-Rental management system with authentication and authorization.  
-🔧 **Technologies**: Laravel, Angular, MySQL.
+## Connect
 
-### **Oracle ERP System** 📊
-Optimized rental operations for AbuDiyab.  
-🔧 **Technologies**: Laravel, Oracle Integration.
+I am open to senior backend, Laravel architecture, API platform, and performance optimization opportunities.
 
-### [🛒 E-Commerce Platform API](https://github.com/mahmoudkhairy159/EcommerceAPI-Laravel)
-Secure API for e-commerce platforms.  
-🔧 **Technologies**: Laravel, MySQL.
-
-### [📋 To-Do List Application](https://github.com/mahmoudkhairy159/Laravel_TO_Do_Application)
-Task management system with reminders and search functionality.  
-🔧 **Technologies**: Laravel, MySQL, Bootstrap.
-
----
-
-## 📊 **GitHub Stats**
-![Mahmoud's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahmoudkhairy159&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudkhairy159&layout=compact&theme=dark)  
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=mahmoudkhairy159)
-
----
-
-## 🤝 **Let’s Connect**
-I’m always open to exciting opportunities and collaborations. Feel free to reach out!  
-- 💼 [LinkedIn](https://www.linkedin.com/in/mahmoud-khairy-753b841b4/)  
-- 📧 [Email](mailto:mahmoudkhairy159@gmail.com)
-
----
-
-### **Additional Notes:**
-- **Open-Source Contributions**: Actively contribute to Laravel packages and API development.  
-- **Community Involvement**: Engage regularly in discussions on Stack Overflow and other tech communities.  
-- **Languages**: Fluent in English and Arabic.
+- LinkedIn: [mahmoud-khairy-753b841b4](https://www.linkedin.com/in/mahmoud-khairy-753b841b4/)
+- Email: [mahmoudkhairy159@gmail.com](mailto:mahmoudkhairy159@gmail.com)
