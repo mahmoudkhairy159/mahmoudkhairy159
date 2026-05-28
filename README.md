@@ -70,3 +70,4 @@ I am open to senior backend, Laravel architecture, API platform, and performance
 
 - LinkedIn: [mahmoud-khairy-753b841b4](https://www.linkedin.com/in/mahmoud-khairy-753b841b4/)
 - Email: [mahmoudkhairy159@gmail.com](mailto:mahmoudkhairy159@gmail.com)
+- Phone & WhatsApp: [+20 111 750 7344](tel:+201117507344)
