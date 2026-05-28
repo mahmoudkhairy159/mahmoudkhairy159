@@ -64,11 +64,6 @@ I am a senior backend developer with 5+ years of experience designing, building,
 - Graduation project: **Fe Sektak**, carpooling application built with Flutter and Laravel, graded A+
 - Certifications: Laravel Advanced Development, AWS Cloud Practitioner in progress
 
-## GitHub Activity
-
-![Mahmoud's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahmoudkhairy159&show_icons=true&theme=transparent&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudkhairy159&layout=compact&theme=transparent&hide_border=true)
-
 ## Connect
 
 I am open to senior backend, Laravel architecture, API platform, and performance optimization opportunities.
