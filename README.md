@@ -1,73 +1,165 @@
-# Mahmoud Khairy
+<h1 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=190&section=header&text=Mahmoud%20Khairy&fontSize=44&fontColor=ffffff&animation=fadeIn&desc=Senior%20Backend%20Engineer%20%C2%B7%20Laravel%20%C3%97%20Angular&descSize=18&descAlignY=68" width="100%" />
+</h1>
 
-**Senior Backend Developer | Laravel/PHP Engineer | API & Platform Architecture**
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&random=false&width=640&lines=Modular+Laravel+Architect;Multi-Tenant+E-commerce+at+Scale;API+Platform+%26+Performance+Engineering;Building+CartJoin+%F0%9F%9B%92" alt="Typing SVG" />
+  </a>
+</div>
 
-[![Email](https://img.shields.io/badge/Email-mahmoudkhairy159%40gmail.com-0A66C2?style=flat-square&logo=gmail&logoColor=white)](mailto:mahmoudkhairy159@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mahmoud%20Khairy-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-khairy-753b841b4/)
-[![GitHub](https://img.shields.io/badge/GitHub-mahmoudkhairy159-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mahmoudkhairy159)
+<br />
 
-I am a senior backend developer with 5+ years of experience designing, building, and optimizing Laravel/PHP systems for SaaS products, marketplaces, fleet operations, e-commerce, EdTech, and multilingual content platforms. I focus on clean architecture, RESTful APIs, high-performance MySQL data layers, automated testing, and reliable delivery practices.
+<div align="center">
 
-## What I Do
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mahmoud--khairy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-khairy-753b841b4/)
+[![Email](https://img.shields.io/badge/Email-mahmoudkhairy159%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahmoudkhairy159@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B20%20111%20750%207344-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201117507344)
+[![GitHub Followers](https://img.shields.io/github/followers/mahmoudkhairy159?style=for-the-badge&color=181717&logo=github)](https://github.com/mahmoudkhairy159)
 
-- Architect modular Laravel backends, including Laravel 12 modular monoliths with clear domain boundaries.
-- Build secure REST APIs with JWT authentication, RBAC/ACL, multi-guard auth, payments, notifications, and cloud storage integrations.
-- Optimize MySQL queries, API endpoints, and backend workflows, including reducing API response times by up to 30%.
-- Improve release quality through PHPUnit, code reviews, Git workflows, CI/CD, and Agile delivery.
-- Mentor developers through practical code reviews focused on maintainability, SOLID principles, and clean code.
+</div>
 
-## Tech Stack
+---
 
-| Area | Tools & Technologies |
-| --- | --- |
-| Backend | PHP, Laravel, RESTful APIs, Microservices, Modular Monoliths |
-| Databases & Cache | MySQL, SQL, Redis |
-| Architecture | OOP, SOLID, Design Patterns, RBAC, Multi-Tenant Systems |
-| Testing & Quality | PHPUnit, Code Reviews, Clean Code, Performance Optimization |
-| DevOps & Cloud | Docker, Kubernetes, GitLab CI/CD, AWS S3 |
-| Integrations | Stripe, Firebase FCM, JWT, Oracle DB, Skolon SSO |
-| Frontend | JavaScript, HTML, CSS, Bootstrap, Angular, Vue.js, React, Next.js, TypeScript |
-| Tools | Git, Agile/Scrum, Data Structures & Algorithms |
+### 👋 About
 
-## Featured Work
+Senior Backend Engineer with **5+ years** designing Laravel/PHP platforms for marketplaces, SaaS, fleet operations, EdTech and multilingual content — and the full-stack range to ship the Angular dashboards that sit on top of them. I build **modular monoliths** with real domain boundaries, **multi-tenant architectures** on a single database, and API platforms that stay fast under load. Currently architecting **CartJoin**, a production multi-vendor e-commerce platform spanning a Laravel 12 modular backend and four Angular 22 applications.
 
-| Project | Summary | Stack |
-| --- | --- | --- |
-| [Real Deal Egypt](https://apps.apple.com/eg/app/real-deal-egypt/id6754966163) | Car marketplace and bidding platform with vendor inventory, ad management, subscriptions, payments, and real-time bidding workflows. | Laravel 12, PHP 8.2, Octane, MySQL, Redis, JWT, Stripe, Firebase FCM, AWS S3, PHPUnit |
-| Al-Ouf | Multi-tenant fleet and transportation operations platform built as a modular monolith. | Laravel 12, PHP 8.4, Octane, Swoole, MySQL, Redis, JWT, Docker, Kubernetes, GitLab CI/CD |
-| [Edge](https://apps.apple.com/eg/app/edge-innovation-center/id6759037991) | Space and facility reservation API for Edge Innovation Center and Raya Smart Buildings. | Laravel 12, PHP 8.3, MySQL, Redis, Stripe, Firebase, AWS S3, PHPUnit |
-| [Envirdian](https://www.envirdian.com) | EdTech learning and licensing platform for schools, teachers, and students with gamified learning and tiered licensing. | Laravel 12, PHP 8.2, MySQL, Redis, JWT, Skolon SSO, GitLab CI/CD |
-| [GeoFika Platform](https://www.geofika.com) | Multilingual geopolitical research and knowledge platform powering articles, research, events, thoughts, and initiatives. | Laravel 12, PHP 8.2, MySQL, Redis, JWT, AWS S3, PHPUnit |
-| [Wardlin Website](https://www.wardlin.com) | Professional portfolio and content platform. | Laravel, React, Next.js, TypeScript |
-| [Naya Website](https://nayauae.com) | Professional portfolio website with optimized backend features. | Laravel, React, Next.js, TypeScript |
-| [Mushor Technology Website](https://mushor.com) | Corporate platform for a distributor in electrical testing, power tools, and networking solutions. | Laravel, Vue.js |
-| [Alshawi Charity Website](https://alshawicharity.org.sa/) | Charitable giving platform connecting individuals and businesses for social impact. | Laravel, Vue.js, MySQL |
-| [AbuDiyab Car Renting Website](https://www.rent.abudiyab.com.sa/) | Car rental system with bookings, payments, authentication, and authorization. | Laravel, Angular, MySQL |
-| Oracle ERP System | Rental workflow automation with inventory and invoice modules. | Laravel, Oracle DB |
+<br />
 
-## Open Source & Practice Projects
+## 🛒 Flagship — CartJoin Platform
 
-- [E-Commerce Platform API](https://github.com/mahmoudkhairy159/EcommerceAPI-Laravel) - Secure Laravel API for e-commerce workflows.
-- [Laravel To-Do Application](https://github.com/mahmoudkhairy159/Laravel_TO_Do_Application) - Task management application with reminders and search.
+> A multi-tenant, multi-vendor e-commerce marketplace: one modular Laravel backend, four purpose-built Angular frontends, isolated per-tenant data with per-tenant domains served through Cloudflare Tunnels.
 
-## Experience Snapshot
+| | |
+|---|---|
+| 🏪 **Storefront** | [cart-join.mahmoud-khairy.com](https://cart-join.mahmoud-khairy.com) — customer shopping experience |
+| ⚙️ **API** | [app-cart-join.mahmoud-khairy.com](https://app-cart-join.mahmoud-khairy.com) — Laravel 12 modular monolith |
+| 🛡️ **Admin** | [admin-cart-join.mahmoud-khairy.com](https://admin-cart-join.mahmoud-khairy.com) — platform-wide control |
+| 🏢 **Tenant** | [tenant-cart-join.mahmoud-khairy.com](https://tenant-cart-join.mahmoud-khairy.com) — per-tenant management |
+| 🚚 **Vendor** | [vendor-cart-join.mahmoud-khairy.com](https://vendor-cart-join.mahmoud-khairy.com) — vendor portal & settlements |
 
-- **Senior Backend Developer, MENT'ECH** - August 2025 to present
-- **Senior Backend Developer, Wardlin** - November 2023 to present
-- **Backend Developer, Tap** - January 2025 to August 2025
-- **Backend Developer, Mushor Technology** - March 2023 to January 2025
-- **Software Engineer, AbuDiyab IT Services** - January 2023 to November 2023
+```text
+ ┌────────────┐  ┌────────────┐  ┌────────────┐  ┌────────────┐
+ │ Storefront │  │   Admin    │  │   Tenant   │  │   Vendor   │
+ │ Angular 22 │  │ Angular 22 │  │ Angular 22 │  │ Angular 22 │
+ └─────┬──────┘  └─────┬──────┘  └─────┬──────┘  └─────┬──────┘
+       └───────────────┴───────┬───────┴───────────────┘
+                        ┌──────┴───────┐
+                        │  Laravel 12  │   JWT · 4 auth guards
+                        │ Modular Mono │   RBAC/ACL per guard
+                        └──────┬───────┘
+                     ┌─────────┼─────────┐
+                ┌────┴───┐ ┌───┴────┐ ┌──┴──────┐
+                │ MySQL  │ │ Redis  │ │Stripe·FCM│
+                └────────┘ └────────┘ └─────────┘
+```
 
-## Education & Certifications
+<details>
+<summary><b>Architecture highlights</b> — click to expand</summary>
 
-- Bachelor of Computer Science, Faculty of Computers and Artificial Intelligence, Cairo University
-- Graduation project: **Fe Sektak**, carpooling application built with Flutter and Laravel, graded A+
-- Certifications: Laravel Advanced Development, AWS Cloud Practitioner in progress
+<br />
 
-## Connect
+- **25+ domain modules** (`nwidart/laravel-modules`) — Cart, Order, Pricing, Wallet, Loyalty, Commission, Flash Sale, Recommendations… each with Controller → Service → Repository layering
+- **Single-DB multitenancy** with absolute tenant isolation — `tenant_id` from resolved context, never the request; wrong-tenant reads return 404
+- **Four JWT guards** (admin / tenant / vendor / user) with config-driven custom RBAC per surface
+- **Full commerce engine**: pricing pipeline, coupons, gift cards, flash sales, wallets, loyalty points, settlements & commissions, invoices, refunds, shipments
+- Deployed via **Cloudflare Tunnels** with per-tenant subdomain resolution
 
-I am open to senior backend, Laravel architecture, API platform, and performance optimization opportunities.
+📁 **Repos:** [Backend](https://github.com/mahmoudkhairy159/Laravel-Multitenancy-Ecommerce-Single-DB) · [Storefront](https://github.com/mahmoudkhairy159/Angular-Multitenancy-Ecommerce-Storefront-Frontend) · [Admin](https://github.com/mahmoudkhairy159/Angular-Multitenancy-Ecommerce-Admin-Dashboard-Frontend) · [Tenant](https://github.com/mahmoudkhairy159/Angular-Multitenancy-Ecommerce-Tenant-Dashboard-Frontend) · [Vendor](https://github.com/mahmoudkhairy159/Angular-Multitenancy-Ecommerce-Vendor-Dashboard-Frontend)
 
-- LinkedIn: [mahmoud-khairy-753b841b4](https://www.linkedin.com/in/mahmoud-khairy-753b841b4/)
-- Email: [mahmoudkhairy159@gmail.com](mailto:mahmoudkhairy159@gmail.com)
-- Phone & WhatsApp: [+20 111 750 7344](tel:+201117507344)
+</details>
+
+<br />
+
+## 🚀 Production Work
+
+| Project | What it is | Stack |
+|---|---|---|
+| [Real Deal Egypt](https://apps.apple.com/eg/app/real-deal-egypt/id6754966163) 📱 | Car marketplace & bidding platform — vendor inventory, subscriptions, real-time bidding | Laravel 12 · Octane · MySQL · Redis · Stripe · FCM · S3 |
+| [Edge](https://apps.apple.com/eg/app/edge-innovation-center/id6759037991) 📱 | Facility reservation API for Raya Smart Buildings | Laravel 12 · MySQL · Redis · Stripe · S3 |
+| [Envirdian](https://www.envirdian.com) 🎓 | EdTech platform — gamified learning, tiered school licensing | Laravel 12 · Skolon SSO · Redis |
+| [GeoFika](https://www.geofika.com) 🌍 | Multilingual geopolitical research platform | Laravel 12 · S3 · i18n |
+| Al-Ouf 🚛 | Fleet & transportation ops — modular monolith, K8s deployed | Laravel 12 · Octane/Swoole · K8s |
+| [Naya](https://nayauae.com) 🏢 | Corporate platform | Laravel · Next.js · TypeScript |
+
+<br />
+
+## 🧰 Toolbox
+
+<div align="center">
+
+**Backend**
+![PHP](https://img.shields.io/badge/PHP_8.2--8.4-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel_10--12-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node](https://img.shields.io/badge/Node.js-NestJS-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+**Data**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle_DB-F80000?style=flat-square&logo=oracle&logoColor=white)
+
+**Frontend**
+![Angular](https://img.shields.io/badge/Angular_22-DD0031?style=flat-square&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React/Next.js-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+
+**Ops & Quality**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![PHPUnit](https://img.shields.io/badge/PHPUnit-366488?style=flat-square&logo=php&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+
+</div>
+
+<br />
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mahmoudkhairy159&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" alt="GitHub Stats" />
+  <img height="165" src="https://streak-stats.demolab.com?user=mahmoudkhairy159&hide_border=true&locale=en&background=0d1117&ring=1f6feb&fire=F0883E&currStreakLabel=58a6ff&dates=c9d1d9&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub Streak" />
+</div>
+<div align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudkhairy159&layout=compact&hide_border=true&langs_count=8&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
+</div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mahmoudkhairy159/mahmoudkhairy159/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mahmoudkhairy159/mahmoudkhairy159/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/mahmoudkhairy159/mahmoudkhairy159/output/github-contribution-grid-snake.svg" />
+</picture>
+
+<br />
+
+## 💼 Experience
+
+| | Role | Period |
+|---|---|---|
+| 🔹 | **Senior Backend Developer** — MENT'ECH | Aug 2025 → Present |
+| 🔹 | **Senior Backend Developer** — Wardlin | Nov 2023 → Present |
+| 🔹 | **Backend Developer** — Tap | Jan 2025 → Aug 2025 |
+| 🔹 | **Backend Developer** — Mushor Technology | Mar 2023 → Jan 2025 |
+| 🔹 | **Software Engineer** — AbuDiyab IT Services | Jan 2023 → Nov 2023 |
+
+🎓 **B.Sc. Computer Science** — Cairo University · A+ graduation project (*Fe Sektak* carpooling app)
+
+<br />
+
+<h2 align="center">📬 Let's build something</h2>
+
+<div align="center">
+Open to <b>senior backend</b>, <b>Laravel architecture</b>, <b>API platform</b> and <b>performance</b> roles.
+
+<br /><br />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-khairy-753b841b4/)
+[![Email](https://img.shields.io/badge/Gmail-Say_Hi-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mahmoudkhairy159@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/201117507344)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=footer" width="100%" />
