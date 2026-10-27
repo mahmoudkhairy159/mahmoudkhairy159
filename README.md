@@ -30,7 +30,14 @@
 
 ## What I do
 
-I design backend systems the way they need to be built to survive real businesses: **modular monoliths** with genuine domain boundaries instead of tangled single-app codebases, **single-database multitenancy** where tenant isolation is absolute, and API platforms that hold their response times as usage grows. Five-plus years shipping marketplaces, SaaS products, fleet operations, EdTech and multilingual content platforms — including **API latency cut by 30%** through query optimization and endpoint refactoring, and PHPUnit standards that raised release reliability across teams.
+I build the backend behind the product — and I own it in production, not just in the repo. Over the past 5+ years that has meant marketplaces, SaaS platforms, fleet operations and EdTech systems used by real customers every day.
+
+What I care about when I build:
+
+- **Architecture that scales with the team** — modular Laravel monoliths with clean domain boundaries, so adding a feature never means untangling a codebase
+- **Multitenancy done safely** — one database, hard tenant isolation, per-tenant everything; a tenant can never see another tenant's data
+- **Performance as a feature** — my recent work cut API response times by **30%**; fast endpoints are part of the product, not an afterthought
+- **Quality you can measure** — PHPUnit coverage standards and code reviews that made releases boring (the good kind of boring)
 
 <br />
 
