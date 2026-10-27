@@ -40,6 +40,8 @@ Most of what I build is in production and serving real users. Current flagship i
 
 🏪 [Storefront](https://cart-join.mahmoud-khairy.com) · ⚙️ [API](https://app-cart-join.mahmoud-khairy.com) · 🛡️ [Admin](https://admin-cart-join.mahmoud-khairy.com) · 🏢 [Tenant](https://tenant-cart-join.mahmoud-khairy.com) · 🚚 [Vendor](https://vendor-cart-join.mahmoud-khairy.com)
 
+Its open-source companion, [**Laravel-Ecommerce-Modular-API**](https://github.com/mahmoudkhairy159/Laravel-Ecommerce-Modular-API), is public — the same modular architecture, browsable code.
+
 <details>
   <summary><b>Under the hood</b></summary>
 
