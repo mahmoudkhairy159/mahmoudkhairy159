@@ -117,10 +117,6 @@ I design backend systems the way they need to be built to survive real businesse
 
 🎓 B.Sc. Computer Science — Cairo University · graduation project graded **A+** (*Fe Sektak*, carpooling platform)
 
-<br />
-
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=mahmoudkhairy159&show_icons=true&hide_border=true&bg_color=00000000&title_color=1F6FEB&icon_color=1F6FEB&text_color=8b949e&hide_rank=true" alt="GitHub stats" align="center" />
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mahmoudkhairy159/mahmoudkhairy159/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mahmoudkhairy159/mahmoudkhairy159/output/github-contribution-grid-snake.svg" />
