@@ -26,7 +26,7 @@
 
 <br />
 
-> **Now:** Senior Backend Developer at **MENT'ECH**, architecting **CartJoin** — a multi-tenant, multi-vendor e-commerce marketplace: one Laravel 12 modular monolith, four purpose-built Angular 22 frontends, per-tenant domains through Cloudflare.
+> **Now:** Senior Backend Developer at **MENT'ECH**. Previously shipped marketplaces, fleet ops, EdTech and SaaS platforms at Wardlin, Tap and Mushor.
 
 ## What I do
 
@@ -34,42 +34,21 @@ I design backend systems the way they need to be built to survive real businesse
 
 <br />
 
-## CartJoin — flagship platform
+## Live platforms
 
-| | |
-|---|---|
-| 🏪 [**Storefront**](https://cart-join.mahmoud-khairy.com) | The customer shopping experience |
-| ⚙️ [**API**](https://app-cart-join.mahmoud-khairy.com) | Laravel 12 modular monolith — 25+ domain modules |
-| 🛡️ [**Admin**](https://admin-cart-join.mahmoud-khairy.com) | Platform-wide control plane |
-| 🏢 [**Tenant**](https://tenant-cart-join.mahmoud-khairy.com) | Per-tenant business management |
-| 🚚 [**Vendor**](https://vendor-cart-join.mahmoud-khairy.com) | Vendor portal, orders & settlements |
+Most of what I build is in production and serving real users. Current flagship is **CartJoin** — a multi-tenant, multi-vendor marketplace (one Laravel 12 modular monolith + four Angular 22 apps):
 
-```text
- ┌────────────┐ ┌────────────┐ ┌────────────┐ ┌────────────┐
- │ Storefront │ │   Admin    │ │   Tenant   │ │   Vendor   │
- │ Angular 22 │ │ Angular 22 │ │ Angular 22 │ │ Angular 22 │
- └─────┬──────┘ └─────┬──────┘ └─────┬──────┘ └─────┬──────┘
-       └──────────────┴──────┬───────┴──────────────┘
-                      ┌──────┴───────┐
-                      │  Laravel 12  │ 4 JWT guards · per-guard RBAC
-                      │ modular mono │ absolute tenant isolation
-                      └──────┬───────┘
-                ┌────────┬───┴────┬──────────┐
-             ┌──┴───┐ ┌──┴───┐ ┌──┴─────┐ ┌──┴───────┐
-             │MySQL │ │Redis │ │ Stripe │ │ Cloudflare│
-             └──────┘ └──────┘ └────────┘ │  Tunnels  │
-                                          └──────────┘
-```
+🏪 [Storefront](https://cart-join.mahmoud-khairy.com) · ⚙️ [API](https://app-cart-join.mahmoud-khairy.com) · 🛡️ [Admin](https://admin-cart-join.mahmoud-khairy.com) · 🏢 [Tenant](https://tenant-cart-join.mahmoud-khairy.com) · 🚚 [Vendor](https://vendor-cart-join.mahmoud-khairy.com)
 
 <details>
-  <summary><b>How it's built</b> — the engineering decisions</summary>
+  <summary><b>Under the hood</b></summary>
 
   <br />
 
-  - **Domain boundaries that hold** — Cart, Order, Pricing, Wallet, Loyalty, Commission, Flash Sale, Recommendations and 17 more modules, each with strict Controller → Service → Repository layering
-  - **Multitenancy done properly** — `tenant_id` resolves from context, never the request; cross-tenant reads return 404; uniques are per-tenant, not global
-  - **Commerce engine, end to end** — pricing pipeline, coupons, gift cards, flash sales, wallets, loyalty, settlements & commissions, invoices, refunds, shipments
-  - **Per-tenant domains** — subdomain resolution maps each tenant to its storefront through Cloudflare Tunnels
+  - 25+ domain modules with strict Controller → Service → Repository layering
+  - Single-DB multitenancy — tenant context is resolved, never trusted from the request; cross-tenant reads return 404
+  - Four JWT guards with per-guard RBAC; full commerce engine: pricing pipeline, coupons, gift cards, flash sales, wallets, loyalty, settlements, refunds
+  - Per-tenant storefront domains via Cloudflare Tunnels
 
   📁 [Backend](https://github.com/mahmoudkhairy159/Laravel-Multitenancy-Ecommerce-Single-DB) · [Storefront](https://github.com/mahmoudkhairy159/Angular-Multitenancy-Ecommerce-Storefront-Frontend) · [Admin](https://github.com/mahmoudkhairy159/Angular-Multitenancy-Ecommerce-Admin-Dashboard-Frontend) · [Tenant](https://github.com/mahmoudkhairy159/Angular-Multitenancy-Ecommerce-Tenant-Dashboard-Frontend) · [Vendor](https://github.com/mahmoudkhairy159/Angular-Multitenancy-Ecommerce-Vendor-Dashboard-Frontend)
 
