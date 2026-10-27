@@ -30,7 +30,7 @@
 
 ## What I do
 
-I design backend systems the way they need to be built to survive real businesses: **modular monoliths** with genuine domain boundaries instead of tangled single-app codebases, **single-database multitenancy** where tenant isolation is absolute, and API platforms that hold their response times as usage grows. Five-plus years shipping marketplaces, SaaS products, fleet operations, EdTech and multilingual content platforms — with the full-stack range to build the Angular dashboards that sit on top of them.
+I design backend systems the way they need to be built to survive real businesses: **modular monoliths** with genuine domain boundaries instead of tangled single-app codebases, **single-database multitenancy** where tenant isolation is absolute, and API platforms that hold their response times as usage grows. Five-plus years shipping marketplaces, SaaS products, fleet operations, EdTech and multilingual content platforms — including **API latency cut by 30%** through query optimization and endpoint refactoring, and PHPUnit standards that raised release reliability across teams.
 
 <br />
 
@@ -62,11 +62,11 @@ Its open-source companion, [**Laravel-Ecommerce-Modular-API**](https://github.co
 
 | | |
 |---|---|
-| **[Real Deal Egypt](https://apps.apple.com/eg/app/real-deal-egypt/id6754966163)** 📱 | Car marketplace with vendor inventory, subscriptions and live bidding — on the App Store. |
+| **[Real Deal Egypt](https://apps.apple.com/eg/app/real-deal-egypt/id6754966163)** 📱 | Car marketplace — real-time bidding, vendor inventory, ad management, tiered subscriptions. Laravel 12 + Octane. On the App Store. |
 | **[Edge](https://apps.apple.com/eg/app/edge-innovation-center/id6759037991)** 📱 | Facility reservation API where a confirmed booking opens the physical door — Raya Smart Buildings. |
-| **[Envirdian](https://www.envirdian.com)** 🎓 | EdTech platform with gamified learning and tiered school licensing across Europe. |
+| **[Envirdian](https://www.envirdian.com)** 🎓 | EdTech for Nordic & European schools — gamified learning, tiered licensing, multi-guard JWT + Skolon SSO. |
 | **[GeoFika](https://www.geofika.com)** 🌍 | Multilingual geopolitical research platform — articles, events, initiatives. |
-| **Al-Ouf** 🚛 | Fleet & transportation operations as a modular monolith, Kubernetes-deployed. |
+| **Al-Ouf** 🚛 | Multi-tenant fleet operations — Laravel 12, Octane + Swoole, Kubernetes, GitLab CI/CD. |
 | **[Naya](https://nayauae.com)** 🏢 | Corporate platform — Laravel backend, Next.js frontend. |
 
 <br />
@@ -90,13 +90,15 @@ Its open-source companion, [**Laravel-Ecommerce-Modular-API**](https://github.co
 
 | When | Role | Where |
 | :--- | :--- | :--- |
-| 2025 → now | Senior Backend Developer | MENT'ECH |
-| 2023 → now | Senior Backend Developer | Wardlin |
-| 2025 | Backend Developer | Tap |
-| 2023 → 2025 | Backend Developer | Mushor Technology |
-| 2023 | Software Engineer | AbuDiyab IT Services |
+| Aug 2025 → now | Senior Backend Developer | MENT'ECH |
+| Nov 2023 → now | Senior Backend Developer | Wardlin *(full-time → part-time since Aug 2025)* |
+| Jan – Aug 2025 | Backend Developer · remote contract | Tap |
+| Mar 2023 – Jan 2025 | Backend Developer · remote | Mushor Technology |
+| Jan – Nov 2023 | Software Engineer | AbuDiyab IT Services |
 
-🎓 B.Sc. Computer Science — Cairo University · graduation project graded **A+** (*Fe Sektak*, carpooling platform)
+🎓 **B.Sc. Computer Science** (minor: Information Systems) — Cairo University, 2016–2020 · graduation project graded **A+**
+
+📜 Laravel Advanced Development · AWS Cloud Practitioner *(in progress)* · Military service completed · English (professional), Arabic (native)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mahmoudkhairy159/mahmoudkhairy159/output/github-contribution-grid-snake-dark.svg" />
