@@ -30,17 +30,17 @@
 
 ## Pinned work — CartJoin
 
-**One platform, five deployable pieces.** A multi-tenant, multi-vendor marketplace — live and taking real traffic.
+**One platform, five deployable pieces.** A multi-tenant, multi-vendor marketplace — live and taking real traffic. Try every surface with the demo accounts below.
 
-| Repo | Live domain | Demo email | Password |
+| Surface | Live domain — try it | Demo email | Password |
 |---|---|---|---|
-| 🛠️ [**Laravel-Multitenancy-Ecommerce-Single-DB**](https://github.com/mahmoudkhairy159/Laravel-Multitenancy-Ecommerce-Single-DB)<br>*Laravel 12 · 50 modules · the core* | [app-cart-join.mahmoud-khairy.com](https://app-cart-join.mahmoud-khairy.com) | Admin · `demo.admin@cartjoin.test` | `Cartjoin@12345` |
-| 🏪 [**Angular … Storefront**](https://github.com/mahmoudkhairy159/Angular-Multitenancy-Ecommerce-Storefront-Frontend)<br>*Angular 22 · customer shopping* | [cart-join.mahmoud-khairy.com](https://cart-join.mahmoud-khairy.com) | Customer · `demo.user@cartjoin.test` | `Cartjoin@12345` |
-| 🛡️ [**Angular … Admin Dashboard**](https://github.com/mahmoudkhairy159/Angular-Multitenancy-Ecommerce-Admin-Dashboard-Frontend)<br>*Angular 22 · platform back office* | [admin-cart-join.mahmoud-khairy.com](https://admin-cart-join.mahmoud-khairy.com) | Admin · `demo.admin@cartjoin.test` | `Cartjoin@12345` |
-| 🏢 [**Angular … Tenant Dashboard**](https://github.com/mahmoudkhairy159/Angular-Multitenancy-Ecommerce-Tenant-Dashboard-Frontend)<br>*Angular 22 · store operator* | [tenant-cart-join.mahmoud-khairy.com](https://tenant-cart-join.mahmoud-khairy.com) | Tenant · `demo.tenant@cartjoin.test` | `Cartjoin@12345` |
-| 🚚 [**Angular … Vendor Portal**](https://github.com/mahmoudkhairy159/Angular-Multitenancy-Ecommerce-Vendor-Dashboard-Frontend)<br>*Angular 22 · vendor workspace* | [vendor-cart-join.mahmoud-khairy.com](https://vendor-cart-join.mahmoud-khairy.com) | Vendor · `demo.vendor@cartjoin.test` | `Cartjoin@12345` |
+| 🛠️ **Platform API**<br>*Laravel 12 · 50 modules · the core* | [app-cart-join.mahmoud-khairy.com](https://app-cart-join.mahmoud-khairy.com) | Admin · `demo.admin@cartjoin.test` | `Cartjoin@12345` |
+| 🏪 **Storefront**<br>*Angular 22 · customer shopping* | [cart-join.mahmoud-khairy.com](https://cart-join.mahmoud-khairy.com) | Customer · `demo.user@cartjoin.test` | `Cartjoin@12345` |
+| 🛡️ **Admin Dashboard**<br>*Angular 22 · platform back office* | [admin-cart-join.mahmoud-khairy.com](https://admin-cart-join.mahmoud-khairy.com) | Admin · `demo.admin@cartjoin.test` | `Cartjoin@12345` |
+| 🏢 **Tenant Dashboard**<br>*Angular 22 · store operator* | [tenant-cart-join.mahmoud-khairy.com](https://tenant-cart-join.mahmoud-khairy.com) | Tenant · `demo.tenant@cartjoin.test` | `Cartjoin@12345` |
+| 🚚 **Vendor Portal**<br>*Angular 22 · vendor workspace* | [vendor-cart-join.mahmoud-khairy.com](https://vendor-cart-join.mahmoud-khairy.com) | Vendor · `demo.vendor@cartjoin.test` | `Cartjoin@12345` |
 
-*Test accounts are created by a public [`DemoAccountsSeeder`](https://github.com/mahmoudkhairy159/Laravel-Multitenancy-Ecommerce-Single-DB/blob/master/Modules/Core/Database/Seeders/DemoAccountsSeeder.php) — password `Cartjoin@12345` for all of them.*
+*Source code is maintained privately; the deployed platforms above are publicly accessible. Credentials available on request.*
 
 <br />
 
