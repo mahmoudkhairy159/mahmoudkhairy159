@@ -71,7 +71,7 @@ What I care about when I build:
 | **[Edge](https://apps.apple.com/eg/app/edge-innovation-center/id6759037991)** 📱 | Facility reservation API where a confirmed booking opens the physical door — Raya Smart Buildings. |
 | **[Envirdian](https://www.envirdian.com)** 🎓 | EdTech for Nordic & European schools — gamified learning, tiered licensing, multi-guard JWT + Skolon SSO. |
 | **[GeoFika](https://www.geofika.com)** 🌍 | Multilingual geopolitical research platform — articles, events, initiatives. |
-| **Al-Ouf** 🚛 | Multi-tenant fleet operations — Laravel 12, Octane + Swoole, Kubernetes, GitLab CI/CD. |
+| **[Al-Ouf](https://apps.apple.com/eg/app/al-ouf/id6757753956)** 🚛 | Multi-tenant fleet operations — Laravel 12, Octane + Swoole, Kubernetes, GitLab CI/CD. On the App Store: [customer app](https://apps.apple.com/eg/app/al-ouf/id6757753956) · [driver app](https://apps.apple.com/eg/app/al-ouf-driver/id6754535640) |
 | **[Naya](https://nayauae.com)** 🏢 | Corporate platform — Laravel backend, Next.js frontend. |
 
 <br />
