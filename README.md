@@ -30,30 +30,17 @@
 
 ## Pinned work — CartJoin
 
-<a href="https://github.com/mahmoudkhairy159/Laravel-Multitenancy-Ecommerce-Single-DB">
-  <img align="left" alt="Backend" src="https://img.shields.io/badge/Backend-Laravel_12_Modular_Monolith-FF2F23?style=flat-square&logo=laravel&logoColor=white" />
-</a>
-<a href="https://github.com/mahmoudkhairy159/Angular-Multitenancy-Ecommerce-Storefront-Frontend">
-  <img align="left" alt="Storefront" src="https://img.shields.io/badge/Storefront-Angular_22-0F0F11?style=flat-square&logo=angular&logoColor=white" />
-</a>
-<a href="https://github.com/mahmoudkhairy159/Angular-Multitenancy-Ecommerce-Admin-Dashboard-Frontend">
-  <img align="left" alt="Admin" src="https://img.shields.io/badge/Admin_Dashboard-Angular_22-0F0F11?style=flat-square&logo=angular&logoColor=white" />
-</a>
-<a href="https://github.com/mahmoudkhairy159/Angular-Multitenancy-Ecommerce-Tenant-Dashboard-Frontend">
-  <img align="left" alt="Tenant" src="https://img.shields.io/badge/Tenant_Dashboard-Angular_22-0F0F11?style=flat-square&logo=angular&logoColor=white" />
-</a>
-<a href="https://github.com/mahmoudkhairy159/Angular-Multitenancy-Ecommerce-Vendor-Dashboard-Frontend">
-  <img alt="Vendor" src="https://img.shields.io/badge/Vendor_Dashboard-Angular_22-0F0F11?style=flat-square&logo=angular&logoColor=white" />
-</a>
-<br clear="left" />
+**One platform, five deployable pieces.** A multi-tenant, multi-vendor marketplace — live and taking real traffic.
 
-| Repo | What it is | Size |
+| Repo | Live domain | Try it |
 |---|---|---|
-| **[Laravel-Multitenancy-Ecommerce-Single-DB](https://github.com/mahmoudkhairy159/Laravel-Multitenancy-Ecommerce-Single-DB)** | The platform core — 25+ domain modules, single-DB multitenancy, 4 JWT guards, full commerce engine | ![size](https://img.shields.io/github/repo-size/mahmoudkhairy159/Laravel-Multitenancy-Ecommerce-Single-DB?style=flat-square&label=) |
-| **[Angular … Storefront](https://github.com/mahmoudkhairy159/Angular-Multitenancy-Ecommerce-Storefront-Frontend)** | Customer storefront — multi-tenant by domain, live on [cart-join.mahmoud-khairy.com](https://cart-join.mahmoud-khairy.com) | ![size](https://img.shields.io/github/repo-size/mahmoudkhairy159/Angular-Multitenancy-Ecommerce-Storefront-Frontend?style=flat-square&label=) |
-| **[Angular … Admin Dashboard](https://github.com/mahmoudkhairy159/Angular-Multitenancy-Ecommerce-Admin-Dashboard-Frontend)** | Platform-wide back office — tenants, vendors, settlements, reports | ![size](https://img.shields.io/github/repo-size/mahmoudkhairy159/Angular-Multitenancy-Ecommerce-Admin-Dashboard-Frontend?style=flat-square&label=) |
-| **[Angular … Tenant Dashboard](https://github.com/mahmoudkhairy159/Angular-Multitenancy-Ecommerce-Tenant-Dashboard-Frontend)** | Store operator back office — catalog, orders, shipping, promo | ![size](https://img.shields.io/github/repo-size/mahmoudkhairy159/Angular-Multitenancy-Ecommerce-Tenant-Dashboard-Frontend?style=flat-square&label=) |
-| **[Angular … Vendor Portal](https://github.com/mahmoudkhairy159/Angular-Multitenancy-Ecommerce-Vendor-Dashboard-Frontend)** | Vendor portal — products, inventory, payouts across tenants | ![size](https://img.shields.io/github/repo-size/mahmoudkhairy159/Angular-Multitenancy-Ecommerce-Vendor-Dashboard-Frontend?style=flat-square&label=) |
+| 🛠️ [**Laravel-Multitenancy-Ecommerce-Single-DB**](https://github.com/mahmoudkhairy159/Laravel-Multitenancy-Ecommerce-Single-DB)<br>*Laravel 12 · 50 modules · the core* | [app-cart-join.mahmoud-khairy.com](https://app-cart-join.mahmoud-khairy.com) | `demo.admin` · `Cartjoin@12345` |
+| 🏪 [**Angular … Storefront**](https://github.com/mahmoudkhairy159/Angular-Multitenancy-Ecommerce-Storefront-Frontend)<br>*Angular 22 · customer shopping* | [cart-join.mahmoud-khairy.com](https://cart-join.mahmoud-khairy.com) | `demo.user@cartjoin.test` · `Cartjoin@12345` |
+| 🛡️ [**Angular … Admin Dashboard**](https://github.com/mahmoudkhairy159/Angular-Multitenancy-Ecommerce-Admin-Dashboard-Frontend)<br>*Angular 22 · platform back office* | [admin-cart-join.mahmoud-khairy.com](https://admin-cart-join.mahmoud-khairy.com) | `demo.admin` · `Cartjoin@12345` |
+| 🏢 [**Angular … Tenant Dashboard**](https://github.com/mahmoudkhairy159/Angular-Multitenancy-Ecommerce-Tenant-Dashboard-Frontend)<br>*Angular 22 · store operator* | [tenant-cart-join.mahmoud-khairy.com](https://tenant-cart-join.mahmoud-khairy.com) | `demo.tenant` · `Cartjoin@12345` |
+| 🚚 [**Angular … Vendor Portal**](https://github.com/mahmoudkhairy159/Angular-Multitenancy-Ecommerce-Vendor-Dashboard-Frontend)<br>*Angular 22 · vendor workspace* | [vendor-cart-join.mahmoud-khairy.com](https://vendor-cart-join.mahmoud-khairy.com) | `demo.vendor@cartjoin.test` · `Cartjoin@12345` |
+
+*Test accounts are created by a public [`DemoAccountsSeeder`](https://github.com/mahmoudkhairy159/Laravel-Multitenancy-Ecommerce-Single-DB/blob/master/Modules/Core/Database/Seeders/DemoAccountsSeeder.php) — password `Cartjoin@12345` for all of them.*
 
 <br />
 
