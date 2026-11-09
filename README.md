@@ -20,7 +20,7 @@
 
 <br />
 
-| | |
+| | | | |
 | :---: | :---: | :---: | :---: |
 | **6+ years**<br>shipping production platforms | **25+**<br>domain modules in one monolith | **5 surfaces**<br>one platform: API + 4 apps | **10+**<br>platforms in production |
 
