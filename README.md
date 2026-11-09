@@ -73,6 +73,7 @@ What I care about when I build:
 | **[GeoFika](https://www.geofika.com)** 🌍 | Multilingual geopolitical research platform — articles, events, initiatives. |
 | **[Al-Ouf](https://apps.apple.com/eg/app/al-ouf/id6757753956)** 🚛 | Multi-tenant fleet operations — Laravel 12, Octane + Swoole, Kubernetes, GitLab CI/CD. On the App Store: [customer app](https://apps.apple.com/eg/app/al-ouf/id6757753956) · [driver app](https://apps.apple.com/eg/app/al-ouf-driver/id6754535640) |
 | **[Naya](https://nayauae.com)** 🏢 | Corporate platform — Laravel backend, Next.js frontend. |
+| **[Wardlin](https://wardlin.com)** 🛒 | E-commerce platform — Laravel backend powering the storefront and operations. |
 
 <br />
 
