@@ -20,13 +20,42 @@
 
 <br />
 
-| Since 2019 | 25+ | 5 live surfaces | 10+ |
+| | |
 | :---: | :---: | :---: | :---: |
-| **building and shipping**<br>production Laravel platforms | **domain modules**<br>in one modular monolith | **one platform,**<br>four Angular apps + an API | **platforms in production**<br>marketplaces, SaaS, EdTech, fleets |
+| **6+ years**<br>shipping production platforms | **25+**<br>domain modules in one monolith | **5 surfaces**<br>one platform: API + 4 apps | **10+**<br>platforms in production |
 
 <br />
 
 > **Now:** Senior Backend Developer at **MENT'ECH**. Previously shipped marketplaces, fleet ops, EdTech and SaaS platforms at Wardlin, Tap and Mushor.
+
+## Pinned work — CartJoin
+
+<a href="https://github.com/mahmoudkhairy159/Laravel-Multitenancy-Ecommerce-Single-DB">
+  <img align="left" alt="Backend" src="https://img.shields.io/badge/Backend-Laravel_12_Modular_Monolith-FF2F23?style=flat-square&logo=laravel&logoColor=white" />
+</a>
+<a href="https://github.com/mahmoudkhairy159/Angular-Multitenancy-Ecommerce-Storefront-Frontend">
+  <img align="left" alt="Storefront" src="https://img.shields.io/badge/Storefront-Angular_22-0F0F11?style=flat-square&logo=angular&logoColor=white" />
+</a>
+<a href="https://github.com/mahmoudkhairy159/Angular-Multitenancy-Ecommerce-Admin-Dashboard-Frontend">
+  <img align="left" alt="Admin" src="https://img.shields.io/badge/Admin_Dashboard-Angular_22-0F0F11?style=flat-square&logo=angular&logoColor=white" />
+</a>
+<a href="https://github.com/mahmoudkhairy159/Angular-Multitenancy-Ecommerce-Tenant-Dashboard-Frontend">
+  <img align="left" alt="Tenant" src="https://img.shields.io/badge/Tenant_Dashboard-Angular_22-0F0F11?style=flat-square&logo=angular&logoColor=white" />
+</a>
+<a href="https://github.com/mahmoudkhairy159/Angular-Multitenancy-Ecommerce-Vendor-Dashboard-Frontend">
+  <img alt="Vendor" src="https://img.shields.io/badge/Vendor_Dashboard-Angular_22-0F0F11?style=flat-square&logo=angular&logoColor=white" />
+</a>
+<br clear="left" />
+
+| Repo | What it is | Size |
+|---|---|---|
+| **[Laravel-Multitenancy-Ecommerce-Single-DB](https://github.com/mahmoudkhairy159/Laravel-Multitenancy-Ecommerce-Single-DB)** | The platform core — 25+ domain modules, single-DB multitenancy, 4 JWT guards, full commerce engine | ![size](https://img.shields.io/github/repo-size/mahmoudkhairy159/Laravel-Multitenancy-Ecommerce-Single-DB?style=flat-square&label=) |
+| **[...Storefront-Frontend](https://github.com/mahmoudkhairy159/Angular-Multitenancy-Ecommerce-Storefront-Frontend)** | Customer storefront — multi-tenant by domain, live on [cart-join.mahmoud-khairy.com](https://cart-join.mahmoud-khairy.com) | ![size](https://img.shields.io/github/repo-size/mahmoudkhairy159/Angular-Multitenancy-Ecommerce-Storefront-Frontend?style=flat-square&label=) |
+| **[...Admin-Dashboard-Frontend](https://github.com/mahmoudkhairy159/Angular-Multitenancy-Ecommerce-Admin-Dashboard-Frontend)** | Platform-wide back office — tenants, vendors, settlements, reports | ![size](https://img.shields.io/github/repo-size/mahmoudkhairy159/Angular-Multitenancy-Ecommerce-Admin-Dashboard-Frontend?style=flat-square&label=) |
+| **[...Tenant-Dashboard-Frontend](https://github.com/mahmoudkhairy159/Angular-Multitenancy-Ecommerce-Tenant-Dashboard-Frontend)** | Store operator back office — catalog, orders, shipping, promo | ![size](https://img.shields.io/github/repo-size/mahmoudkhairy159/Angular-Multitenancy-Ecommerce-Tenant-Dashboard-Frontend?style=flat-square&label=) |
+| **[...Vendor-Dashboard-Frontend](https://github.com/mahmoudkhairy159/Angular-Multitenancy-Ecommerce-Vendor-Dashboard-Frontend)** | Vendor portal — products, inventory, payouts across tenants | ![size](https://img.shields.io/github/repo-size/mahmoudkhairy159/Angular-Multitenancy-Ecommerce-Vendor-Dashboard-Frontend?style=flat-square&label=) |
+
+<br />
 
 ## What I do
 
@@ -43,25 +72,7 @@ What I care about when I build:
 
 ## Live platforms
 
-Most of what I build is in production and serving real users. Current flagship is **CartJoin** — a multi-tenant, multi-vendor marketplace (one Laravel 12 modular monolith + four Angular 22 apps):
-
-🏪 [Storefront](https://cart-join.mahmoud-khairy.com) · ⚙️ [API](https://app-cart-join.mahmoud-khairy.com) · 🛡️ [Admin](https://admin-cart-join.mahmoud-khairy.com) · 🏢 [Tenant](https://tenant-cart-join.mahmoud-khairy.com) · 🚚 [Vendor](https://vendor-cart-join.mahmoud-khairy.com)
-
-Its open-source companion, [**Laravel-Ecommerce-Modular-API**](https://github.com/mahmoudkhairy159/Laravel-Ecommerce-Modular-API), is public — the same modular architecture, browsable code.
-
-<details>
-  <summary><b>Under the hood</b></summary>
-
-  <br />
-
-  - 25+ domain modules with strict Controller → Service → Repository layering
-  - Single-DB multitenancy — tenant context is resolved, never trusted from the request; cross-tenant reads return 404
-  - Four JWT guards with per-guard RBAC; full commerce engine: pricing pipeline, coupons, gift cards, flash sales, wallets, loyalty, settlements, refunds
-  - Per-tenant storefront domains via Cloudflare Tunnels
-
-  📁 [Backend](https://github.com/mahmoudkhairy159/Laravel-Multitenancy-Ecommerce-Single-DB) · [Storefront](https://github.com/mahmoudkhairy159/Angular-Multitenancy-Ecommerce-Storefront-Frontend) · [Admin](https://github.com/mahmoudkhairy159/Angular-Multitenancy-Ecommerce-Admin-Dashboard-Frontend) · [Tenant](https://github.com/mahmoudkhairy159/Angular-Multitenancy-Ecommerce-Tenant-Dashboard-Frontend) · [Vendor](https://github.com/mahmoudkhairy159/Angular-Multitenancy-Ecommerce-Vendor-Dashboard-Frontend)
-
-</details>
+🛒 [Storefront](https://cart-join.mahmoud-khairy.com) · ⚙️ [API](https://app-cart-join.mahmoud-khairy.com) · 🛡️ [Admin](https://admin-cart-join.mahmoud-khairy.com) · 🏢 [Tenant](https://tenant-cart-join.mahmoud-khairy.com) · 🚚 [Vendor](https://vendor-cart-join.mahmoud-khairy.com)
 
 <br />
 
@@ -93,15 +104,15 @@ Its open-source companion, [**Laravel-Ecommerce-Modular-API**](https://github.co
 
 ## Career
 
-**Since 2019, across five companies.**
+**Six years, five teams** — details on request; each engagement ran in its own company account.
 
-| When | Role | Where |
+| | | |
 | :--- | :--- | :--- |
-| Aug 2025 → now | Senior Backend Developer | MENT'ECH |
-| Nov 2023 → now | Senior Backend Developer | Wardlin *(full-time → part-time since Aug 2025)* |
-| Jan – Aug 2025 | Backend Developer · remote contract | Tap |
-| Mar 2023 – Jan 2025 | Backend Developer · remote | Mushor Technology |
-| Jan – Nov 2023 | Software Engineer | AbuDiyab IT Services |
+| **2025 → now** | Senior Backend Developer | MENT'ECH |
+| **2023 → now** | Senior Backend Developer | Wardlin |
+| **2025** | Backend Developer · contract | Tap |
+| **2023 – 2025** | Backend Developer | Mushor Technology |
+| **2023** | Software Engineer | AbuDiyab IT Services |
 
 🎓 **B.Sc. Computer Science** (minor: Information Systems) — Cairo University, 2016–2020 · graduation project graded **A+**
 
