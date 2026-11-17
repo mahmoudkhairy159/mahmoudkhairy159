@@ -39,6 +39,7 @@
 | 🛡️ **Admin Dashboard**<br>*Angular 22 · platform back office* | [admin-cart-join.mahmoud-khairy.com](https://admin-cart-join.mahmoud-khairy.com) | Admin · `demo.admin@cartjoin.test` | `Cartjoin@12345` |
 | 🏢 **Tenant Dashboard**<br>*Angular 22 · store operator* | [tenant-cart-join.mahmoud-khairy.com](https://tenant-cart-join.mahmoud-khairy.com) | Tenant · `demo.tenant@cartjoin.test` | `Cartjoin@12345` |
 | 🚚 **Vendor Portal**<br>*Angular 22 · vendor workspace* | [vendor-cart-join.mahmoud-khairy.com](https://vendor-cart-join.mahmoud-khairy.com) | Vendor · `demo.vendor@cartjoin.test` | `Cartjoin@12345` |
+| 📚 **Client Docs**<br>*English + Arabic guides · 44 capability guides per language* | [docs-cart-join.mahmoud-khairy.com/docs](https://docs-cart-join.mahmoud-khairy.com/docs) · [repo](https://github.com/mahmoudkhairy159/CartJoin-Client-Docs) | — | — |
 
 *Source code is maintained privately; the deployed platforms above are publicly accessible. Credentials available on request.*
 
@@ -59,7 +60,7 @@ What I care about when I build:
 
 ## Live platforms
 
-🛒 [Storefront](https://cart-join.mahmoud-khairy.com) · ⚙️ [API](https://app-cart-join.mahmoud-khairy.com) · 🛡️ [Admin](https://admin-cart-join.mahmoud-khairy.com) · 🏢 [Tenant](https://tenant-cart-join.mahmoud-khairy.com) · 🚚 [Vendor](https://vendor-cart-join.mahmoud-khairy.com)
+🛒 [Storefront](https://cart-join.mahmoud-khairy.com) · ⚙️ [API](https://app-cart-join.mahmoud-khairy.com) · 🛡️ [Admin](https://admin-cart-join.mahmoud-khairy.com) · 🏢 [Tenant](https://tenant-cart-join.mahmoud-khairy.com) · 🚚 [Vendor](https://vendor-cart-join.mahmoud-khairy.com) · 📚 [Docs](https://docs-cart-join.mahmoud-khairy.com/docs)
 
 <br />
 
